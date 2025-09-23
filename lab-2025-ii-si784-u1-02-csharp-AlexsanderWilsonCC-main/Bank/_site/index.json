@@ -1,0 +1,27 @@
+{
+  "Cobertura/SummaryGithub.html": {
+    "href": "Cobertura/SummaryGithub.html",
+    "title": "Summary",
+    "summary": "Summary Summary Generated on: 23/09/2025 - 02:43:15 Coverage date: 23/09/2025 - 02:43:10 Parser: MultiReport (2x Cobertura) Assemblies: 1 Classes: 2 Files: 1 Line coverage: 0% (0 of 31) Covered lines: 0 Uncovered lines: 31 Coverable lines: 31 Total lines: 44 Branch coverage: 0% (0 of 4) Covered branches: 0 Total branches: 4 Method coverage: Feature is only available for sponsors Coverage Bank.WebApi - 0% Name Line Branch Bank.WebApi 0% 0% Program 0% 0% WeatherForecast 0%"
+  },
+  "disenio.html": {
+    "href": "disenio.html",
+    "title": "",
+    "summary": "classDiagram"
+  },
+  "docs/getting-started.html": {
+    "href": "docs/getting-started.html",
+    "title": "Getting Started",
+    "summary": "Getting Started"
+  },
+  "docs/introduction.html": {
+    "href": "docs/introduction.html",
+    "title": "Introduction",
+    "summary": "Introduction"
+  },
+  "index.html": {
+    "href": "index.html",
+    "title": "This is the HOMEPAGE.",
+    "summary": "This is the HOMEPAGE. Refer to Markdown for how to write markdown files. Quick Start Notes: Add images to the images folder if the file is referencing an image."
+  }
+}
